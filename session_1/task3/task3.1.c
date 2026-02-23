@@ -59,7 +59,7 @@ int main(void) {
     if (units <= 100) {
         bill = units * 2.0;
 		// to do
-    }
+
 
     /* subtask 2: apply surcharge based on customer type */
 	// complete your code here

@@ -48,6 +48,7 @@ int main(int argc, char *argv[]) {
     // Complete your code here
 	switch(operation){
 		case :
+        
             break;
 		default:
 			printf("Operation not defined!\n");
